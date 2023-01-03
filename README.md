@@ -1,4 +1,4 @@
-##Welcome to JavaScript Fundamentals 👋
+## Welcome to JavaScript Fundamentals 👋
 We're so excited to finally release this long-awaited content to the world. This course used to be worth $100! Alchemy and ChainShot teamed up to make this JS crash course completely free in an effort to teach thousands of devs the fundamentals of coding via the JavaScript programming language.
 
 Best Practices to Maximize the Value of JS Fundamentals 🚀
