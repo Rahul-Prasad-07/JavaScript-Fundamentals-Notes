@@ -1,8 +1,16 @@
-## Welcome to JavaScript Fundamentals 👋
-We're so excited to finally release this long-awaited content to the world. This course used to be worth $100! Alchemy and ChainShot teamed up to make this JS crash course completely free in an effort to teach thousands of devs the fundamentals of coding via the JavaScript programming language.
+<h1 align="center">Welcome to JavaScript Fundamentals 👋</h1>
+
+<div align="center">
+   
+![image](https://user-images.githubusercontent.com/99068989/210767756-9107dbdd-6bbf-4598-a0c8-7b270ceb9a61.png)
+   
+</div>
+
+
+We're so excited to finally release this long-awaited content to the world. This course used to be worth $100! Resolute team up to make this JS crash course completely free in an effort to teach thousands of devs the fundamentals of coding via the JavaScript programming language.
 
 Best Practices to Maximize the Value of JS Fundamentals 🚀
-Here’s a quick list of recommendations to maximize your AU student experience:
+Here’s a quick list of recommendations to maximize your RU student experience:
 
 ### 1. Community, Community, Community! 🏘
    You are not expected to tackle all this content alone! Get involved, be active, reach out if you need help! Find your niche, find like-minded folks... then build cool shit with them - this is the way.
