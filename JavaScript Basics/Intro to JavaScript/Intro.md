@@ -7,15 +7,16 @@
 - When a program is ready to be executed by a machine, it is read line-by-line by a compiler or an interpreter. Both of these tools will translate the code into instructions a machine can run.
 
 ### Parsing
+
 Each line in a program is parsed to determine its meaning to the machine. This is done by breaking up each statement into tokens. For instance, we might have a statement:
 `const a = 4`
 This statement is broken up into the individual tokens: const, a, = and 4.
 
-These tokens have a particular meaning to the machine depending on the syntax. Programming languages define syntax. One such programming language is JavaScript. Using JavaScript syntax, the compiler assigns a set of rules to determine the meaning of the above tokens.
+- These tokens have a particular meaning to the machine depending on the syntax. Programming languages define syntax. One such programming language is JavaScript. Using JavaScript syntax, the compiler assigns a set of rules to determine the meaning of the above tokens.
 
-It will see the keyword const and know it to be declaring a variable called a. It will recognize = as an assignment operator. Finally, it will determine that 4 is the value to be stored inside of the variable a.
+- It will see the keyword const and know it to be declaring a variable called a. It will recognize = as an assignment operator. Finally, it will determine that 4 is the value to be stored inside of the variable a.
 
-A compiler will read each statement in your program, parsing it. Eventually it forms a tree-like data structure to represent your program. From this data structure it will create a series of machine instructions that can be executed directly.
+- A compiler will read each statement in your program, parsing it. Eventually it forms a tree-like data structure to represent your program. From this data structure it will create a series of machine instructions that can be executed directly.
 In some languages, compilation creates machine code that is deployed to servers. For JavaScript, compilation happens microseconds before execution. This is referred to Just-in-Time Compilation.
 
 Phew!
