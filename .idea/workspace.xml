@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dace230e-f39a-4db7-82e7-20951f2834c4" name="Changes" comment="" />
+    <list default="true" id="dace230e-f39a-4db7-82e7-20951f2834c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Add By Type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/How Many Pizzas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Many Orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Object Keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Pizza Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Secret Key.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Typed Orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Ends With X.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Find First X.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Is All X.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Split at X.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Starts With Casing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Starts With X.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Create Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Has One.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Remove Occurrences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Sum Even.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Unique.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/addOne.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript Basics/Intro to JavaScript/Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript Basics/Intro to JavaScript/Intro.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JoZCkqvYFcwMj5DV3J7d7psIt7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,15 +54,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="9.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\Data Storage\String Manipulation" />
       <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\JavaScript Basics\Practice Problems 1" />
       <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\JavaScript Basics" />
       <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\Loops" />
       <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\Conditionals" />
-      <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\Functions and Operators" />
     </key>
   </component>
   <component name="RunManager">
@@ -59,10 +85,22 @@
       <option name="presentableId" value="Default" />
       <updated>1672746291923</updated>
       <workItem from="1672746301076" duration="2379000" />
+      <workItem from="1673007688629" duration="1676000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
