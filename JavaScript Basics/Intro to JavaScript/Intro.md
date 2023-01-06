@@ -8,6 +8,7 @@
 
 ### Parsing
 
+
 Each line in a program is parsed to determine its meaning to the machine. This is done by breaking up each statement into tokens. For instance, we might have a statement:
 `const a = 4`
 This statement is broken up into the individual tokens: const, a, = and 4.
