@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dace230e-f39a-4db7-82e7-20951f2834c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Add By Type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/How Many Pizzas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Many Orders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Object Keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Pizza Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Secret Key.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/Typed Orders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Ends With X.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Find First X.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Is All X.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Split at X.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Starts With Casing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/String Manipulation/Starts With X.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Create Array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Has One.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Remove Occurrences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Sum Even.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/Unique.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Storage/Working with Arrays/addOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Storage/Objects/fun.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript Basics/Intro to JavaScript/Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript Basics/Intro to JavaScript/Intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="9.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,12 +47,16 @@
       <recent name="C:\Users\Rahul Prasad\JavaScript-Fundamentals-Notes\Conditionals" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.fun.js">
     <configuration name="Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript Basics/Intro to JavaScript/Strings.js" working-dir="$PROJECT_DIR$/JavaScript Basics/Intro to JavaScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="fun.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data Storage/Objects/fun.js" working-dir="$PROJECT_DIR$/Data Storage/Objects">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.fun.js" />
         <item itemvalue="Node.js.Strings.js" />
       </list>
     </recent_temporary>
@@ -86,6 +71,8 @@
       <updated>1672746291923</updated>
       <workItem from="1672746301076" duration="2379000" />
       <workItem from="1673007688629" duration="1676000" />
+      <workItem from="1677396247036" duration="486000" />
+      <workItem from="1678444783468" duration="232000" />
     </task>
     <servers />
   </component>
